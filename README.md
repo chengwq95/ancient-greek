@@ -2,7 +2,7 @@
 
 Ancient Greek mythology character compendium website.
 
-Live site: [Cloudflare Pages](https://chronicles-of-olympus.pages.dev/)
+Live site: [Cloudflare Pages](https://ancient-greek-stories.pages.dev/)
 
 Site structure:
 - `index.html` — visual entrance page.
